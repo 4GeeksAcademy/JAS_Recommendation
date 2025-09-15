@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.803,
+  "precision_pos": 0.561,
+  "recall_pos": 0.81,
+  "f1_pos": 0.663,
+  "roc_auc": 0.898,
+  "avg_precision": 0.754,
+  "classes_": [
+    "<=50K",
+    ">50K"
+  ]
+}
